@@ -1,7 +1,7 @@
+package model;
 
 
-
-    public class Book {
+public class Book {
         // Pola
         private String title;
         private String author;
